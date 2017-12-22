@@ -1,0 +1,11 @@
+create proc prosedur
+@gelen float
+as begin
+declare @max int
+select @max=max(id) from gercekler 
+where sonuc<@gelen
+select h.hareket from hareketler h
+inner join durumlar d on d.hareketId=h.id
+inner join gercekler g on g.id=d.gercekId
+where g.id=@max
+end 

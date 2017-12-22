@@ -1,0 +1,9 @@
+c:\users\atılgan\documents\visual studio 2015\Projects\IseAlimUzmanSistem\IseAlimUzmanSistem\bin\Debug\IseAlimUzmanSistem.exe.config
+c:\users\atılgan\documents\visual studio 2015\Projects\IseAlimUzmanSistem\IseAlimUzmanSistem\bin\Debug\IseAlimUzmanSistem.exe
+c:\users\atılgan\documents\visual studio 2015\Projects\IseAlimUzmanSistem\IseAlimUzmanSistem\bin\Debug\IseAlimUzmanSistem.pdb
+c:\users\atılgan\documents\visual studio 2015\Projects\IseAlimUzmanSistem\IseAlimUzmanSistem\obj\Debug\IseAlimUzmanSistem.csprojResolveAssemblyReference.cache
+c:\users\atılgan\documents\visual studio 2015\Projects\IseAlimUzmanSistem\IseAlimUzmanSistem\obj\Debug\IseAlimUzmanSistem.Properties.Resources.resources
+c:\users\atılgan\documents\visual studio 2015\Projects\IseAlimUzmanSistem\IseAlimUzmanSistem\obj\Debug\IseAlimUzmanSistem.csproj.GenerateResource.Cache
+c:\users\atılgan\documents\visual studio 2015\Projects\IseAlimUzmanSistem\IseAlimUzmanSistem\obj\Debug\IseAlimUzmanSistem.exe
+c:\users\atılgan\documents\visual studio 2015\Projects\IseAlimUzmanSistem\IseAlimUzmanSistem\obj\Debug\IseAlimUzmanSistem.pdb
+c:\users\atılgan\documents\visual studio 2015\Projects\IseAlimUzmanSistem\IseAlimUzmanSistem\obj\Debug\IseAlimUzmanSistem.uzmanForm.resources
